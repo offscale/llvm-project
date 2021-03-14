@@ -33,7 +33,7 @@ Next you need to obtain the CMake build system and Ninja build tool.
       git clone https://github.com/martine/ninja.git
       cd ninja
       git checkout release
-      ./bootstrap.py
+      ./configure.py
       sudo cp ninja /usr/bin/
 
       cd ~/clang-llvm

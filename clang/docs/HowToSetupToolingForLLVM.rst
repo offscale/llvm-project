@@ -156,7 +156,7 @@ Clone the Ninja git repository and build Ninja from sources:
 
   $ git clone git://github.com/martine/ninja.git
   $ cd ninja/
-  $ ./bootstrap.py
+  $ ./configure.py
 
 This will result in a single binary ``ninja`` in the current directory.
 It doesn't require installation and can just be copied to any location
